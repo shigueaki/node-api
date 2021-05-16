@@ -1,0 +1,27 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Exemplo de REST API com Node para projetos futuros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shigueaki/node-api.git"
+  },
+  "keywords": [
+    "[\"API\"",
+    "\"REST\"",
+    "\"node\"]"
+  ],
+  "author": "Rodrigo Shigueaki da Costa Aoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shigueaki/node-api/issues"
+  },
+  "homepage": "https://github.com/shigueaki/node-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
